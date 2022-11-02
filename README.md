@@ -1,7 +1,7 @@
 ## Hannah Graber Telling Stories with Data Portfolio
 
 # About me 
-Hey y'all! I'm Hannah (she/her): a self-proclaimed digital equity aficionado with an affinity for sustainable community development and workforce programming. I am currently based in Pittsburgh, PA where I'm pursuing my Masters degree in Public Policy and Management at Carnegie Mellon. My academic interests lie at the intersection of smart cities, communtiy development, and policy analysis. I am striving to learn how to lift communities with evidence-based recommendations, advanced technology, and data.
+Hey y'all! I'm Hannah (she/her): a self-proclaimed digital equity aficionado with an affinity for sustainable community development and workforce programming. I am currently based in Pittsburgh, PA where I'm pursuing my Masters degree in Public Policy and Management at Carnegie Mellon. My academic interests lie at the intersection of smart cities, communtiy development, and policy analysis. My ultimate goal here in grad school is to learn how to lift communities with evidence-based recommendations, advanced technology, and data.
 
 *Here's me:*
 
