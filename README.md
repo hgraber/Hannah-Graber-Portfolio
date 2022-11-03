@@ -16,6 +16,7 @@ Once I graduate, I hope to work in policy research at a think tank or non-profit
 # Portfolio
 
 ## Visualizing Government Debt(https://github.com/hgraber/Hannah-Graber-Portfolio/blob/main/dataviz2.md)
+
 The following visualization represents general government debt for countries around the world by percent of GDP from 1995 to 2021:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11686871"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
