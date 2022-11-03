@@ -17,7 +17,7 @@ Once I graduate, I hope to work in policy research at a think tank or non-profit
 
 ## Visualizing Government Debt
 
-(https://github.com/hgraber/Hannah-Graber-Portfolio/blob/main/dataviz2.md)
+https://github.com/hgraber/Hannah-Graber-Portfolio/blob/main/dataviz2.md
 
 
 ## Final Project part 1
