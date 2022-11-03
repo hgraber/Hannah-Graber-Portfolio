@@ -8,4 +8,4 @@ The following visualization represents average general government debt for OECD 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11686871"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11687267"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11688775"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
