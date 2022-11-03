@@ -20,7 +20,6 @@ Once I graduate, I hope to work in policy research at a think tank or non-profit
 (https://github.com/hgraber/Hannah-Graber-Portfolio/blob/main/dataviz2.md)
 
 
-
 ## Final Project part 1
 
 ## Final Project part 2
