@@ -16,6 +16,6 @@ While helpful to compare country data in one succint location, the graphic may b
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11688775"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The 'race' element of the visualization was especially powerful to me as a viewer in seeing how all countries' ratios changed with time in addition to how they changed in comparison to one another. For example, in 2019, all countries' ratios jump and then fall again with the onset of COVID in 2020. For this reason, this chart has multiple, dynamic purposes in telling the story ofdebt ratios.
+The 'race' element of the visualization was especially powerful to me as a viewer in seeing how all countries' ratios changed with time in addition to how they changed in comparison to one another. For example, in 2019, all countries' ratios jump and then fall again with the onset of COVID in 2020. For this reason, this chart has multiple, dynamic purposes in telling the story of debt ratios.
 
 [Back to the main Portfolio page](/README.md)
