@@ -70,22 +70,21 @@ description here of ideas--wanted to try somehting other than a barchart
 
 - Can you describe what this visualization is telling you?
 
-   User 1: oasjdkjasndasjdn  
-   User 2:
+   **User 1:** Depending on whether a school is categorized as low-need, average-need, or high-need, the majority of students will struggle with internet availability or internet cost.  
+   **User 2:**  Half of rural high-need students struggle with internet cost. Well, actually, I'm not sure. No, it's confusing.
 
 - Is there anything you find surprising or confusing?
 
-   User 1: OJSAKJSLKaslks  
-   User 2:
+   **User 1:** I see where you were going with this, but the lack of data across the rows confuses me. 
+   **User 2:** I'm thrown off by the blank cells for non-majority barriers and left feeling confused about how to add up the data--across row or column?
 
 - Based on the data represented here, who do you think is the intended audience?
 
-   User 1: lskjflskdlkasdkasm  
-   User 2:
+   **User 1:** I'd say the same audience as the first visualization (For reference, User 1 said: "Ideally, people who have the power to allocate funding to schools and/or students or internet service providers who are price-gouging subscription costs").  
+   **User 2:** Um, maybe someone who has the ability to make internet more accessible and available to rural students.
 
 - What would you change about this visualization, if anything?
 
-   User 1: daksjdlkasjldkjasds  
-   User 2:
-
+   **User 1:** I'd add light gray stats to the blank sections of the matrix, like barely perceptible, but enough so the reader knows there is data there. And, I'd add in some sort of consistent hierarchy for low, average, and high-needs categories by adding one big "high-needs" label and then the urban and rural labels smaller under the high-needs label. 
+   **User 2:** Maybe add additional data to the empty parts of this chart and show how the reader should sum the percentages, like with an arrow pointing across the rows or an equals sign and total percentages across either row or column data.
 
