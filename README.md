@@ -17,7 +17,7 @@ Once I graduate, I hope to work in policy research at a think tank or non-profit
 
 ## [Visualizing Government Debt](/dataviz2.md)
 
-## [Critique by Design]
+## [Critique by Design](/critiquebydesign.md)
 
 ## Final Project part 1
 
