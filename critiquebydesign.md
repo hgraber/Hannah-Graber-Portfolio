@@ -3,6 +3,8 @@
 intro here
 
 ### Original Data Visualization
+"Please note that these data reflect responses submitted by New York State Schools to the best of their
+ability and knowledge in June-July 2020."
 <img src="https://user-images.githubusercontent.com/116670343/201529659-23601663-d0a1-4c71-b5ee-0419f7a35d55.png" width="800" />
 
 
@@ -10,7 +12,7 @@ intro here
 **User 2:** Female, 52 years old, sixth grade middle school counselor
 
 
-### Redesign 1
+### Redesign Option 1
 what I tried to do with this one--focus on one element: cost. thats what schools can potentially impact
 <img src="https://user-images.githubusercontent.com/116670343/201529517-f8cd21c4-24dd-41b0-bc64-8154f29b216c.jpg" width="700" />
 
@@ -31,38 +33,39 @@ what I tried to do with this one--focus on one element: cost. thats what schools
 
 - What would you change about this visualization, if anything?
 
-   **User 1:** I would change the labels on the x-axis to be more clear for the population you're trying to represent (schools or students at the schools), keep percentage signs on all data labels (because the percentages don't add up to 100 so I think you need them), and find a way to represent high needs schools together and THEN disaggregate by urban and rural. Does it make sense to represent high needs schools together and then have a separate visulization breaking down how high needs schools differ by urban and rural?  
+   **User 1:** I would change the labels on the x-axis to be more clear for the population you're trying to represent (schools or students at the schools), keep percentage signs on all data labels (because the percentages don't add up to 100 so I think you need them), and find a way to represent high needs schools together and THEN disaggregate. Does it make sense to represent high needs schools together and then have a separate visulization breaking down how high needs schools differ by a variable?  
    **User 2:** I would make the title and categories of schools more clear, but I'm not really sure how to do that. I think you could mention in the title that the population of interest is students in these schools, and then amend the school category labels to reflect the change in the title. I think the green for the cost could be a little brighter because it seems like the dark gray and dark green are almost of the same significance.
 
 
 
-### Redesign 2
+### Redesign Option 2
+description here of ideas
 <img src="https://user-images.githubusercontent.com/116670343/201529524-d7b097f2-c398-4eb7-a678-c0556d14e8a8.jpg" width="700" />
 
 
 - Can you describe what this visualization is telling you?
 
-   User 1: oasjdkjasndasjdn  
-   User 2:
+   **User 1:** Okay, I already like this one better. This visualization is telling me that different types of schools have different needs. Most students who can't access the internet struggle with cost as an issue, except for rural high needs schools where students struggle with access/availability of internet.    
+   **User 2:**  Hm, interesting. You highlighted the data I wanted for rural schools! This graph is telling me that rural high needs schools have different needs than the other types of schools and the other categories of school all struggle with cost. I would still make the green brighter, though.
 
 - Is there anything you find surprising or confusing?
 
-   User 1: OJSAKJSLKaslks  
-   User 2:
+   **User 1:** I still think there's too much text on the x-axis that makes the information hard to absorb. Like, in the last visualization, I didn't even really register than the last two categories represented urban and rural high-needs schools. I know you underlined them, but it wasn't clear to me until now.  
+   **User 2:** I find it suprising that among students in rural high needs schools, of course the majority struggle with internet availability and that is highlighted very clearly, but a huge group of students struggle with cost, too--comparable to the majority barrier for average needs schools.
 
 - Based on the data represented here, who do you think is the intended audience?
 
-   User 1: lskjflskdlkasdkasm  
-   User 2:
+   **User 1:** For this visualization, the audience seems to be policy makers at the state or federal level who need to know that rural schools have different needs and should be considered as such. I think the message is still related to funding for schools, but compared to the last graph, this one seems to highlight MSA status in a significant way that screams policy to me.  
+   **User 2:** Same population as the last one--school administrators and teachers/staff who need to know how to treat students differently based on their different barriers to internet access and completing assignments at home.
 
 - What would you change about this visualization, if anything?
 
-   User 1: daksjdlkasjldkjasds  
-   User 2:
+   **User 1:** Consider removing low-needs and average-needs schools from this visualization altogether. Are they really necessary to make the point? Also, I might move rural high-needs schools to the end of the chart to further highlight the significance of the difference. Oh, and I think if you keep all 4 categories, both high needs categories should still be represented together in some way.  
+   **User 2:** I really like this one. I'm still a little confused by who is being represented by this data (students or schools) so I'd make that more clear via title or label alterations.
 
 
-
-### Redesign 3
+### Redesign Option 3
+description here of ideas--wanted to try somehting other than a barchart
 <img src="https://user-images.githubusercontent.com/116670343/201529531-06bc6e4c-1474-49ae-9d25-f6b59cdfbd77.jpg" width="700" />
 
 - Can you describe what this visualization is telling you?
