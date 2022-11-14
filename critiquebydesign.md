@@ -126,4 +126,6 @@ I used the software called Flourish to create my updated visualization which has
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817598"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+I feel that this new visualization implements user feedback and addresses some of the shortcomings from the original visualization. The cost data is highlighted in a bright green (often associated with money) while the availability data fades to the back with a light gray representation. The chart junk has been removed and labels help augment understanding rather than further confuse the audience.
+
 [Back to the main Portfolio page](/README.md)
