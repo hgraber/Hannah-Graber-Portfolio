@@ -2,11 +2,12 @@
 Within the scope of this course, I have learned how to effectively critique data visualizations and create some of my own, but for this assignment, I will be doing both to critique an existing visualization via redesign. On this page, I will post the initial visualization and critique, delve into user research and feedback on new sketches I've created, and recreate the original visualization according to the feedback I gave and received.
 
 
-### Original Data Visualization
+### Step One: Original Data Visualization
 Below is the original data visualization I chose to critique via redesign. The graph comes from the New York State Education Department from a slide deck outlining spring 2020 digital equity survey results. The data were submitted by New York State Schools "to the best of their ability and knowledge" in June and July of 2020. 
 
 <img src="https://user-images.githubusercontent.com/116670343/201529659-23601663-d0a1-4c71-b5ee-0419f7a35d55.png" width="800" />
 
+### Step Two: Critique
 **Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?**
 Upon first glance, the data visualization was confusing and felt chaotic due to the many colors, data labels, and labels on the x-axis. I didn’t immediately know what “NRC” meant from the title, so it took a bit of time to understand what was being said with the data. The “#N/A” category on the x-axis felt lazy and led me to question if the person organizing the data was reliable. In terms of things that worked well, the big, bold title is easy to read and draws my eye to the top left corner immediately. I think it’s wise that the creator disaggregated the data by different ‘type’ of school to help identify that schools—and the students at those schools—may have differing needs as they relate to internet access. The color palette feels natural to the eye as we tend to see red-green color schemes in everyday life.
 
@@ -20,7 +21,7 @@ For context, this visualization is part of a larger slide deck exploring the spr
 I think Stephen Few’s Data Visualization Effectiveness Profile was very successful at capturing the various aspects of quality and I wouldn’t add any additional measures. Regarding changing the measures, I think the “aesthetics” category should explicitly mention the use of color as a highlight (e.g., does the use of color effectively highlight the most important data?). Additionally, I might change the “usefulness” category to include something about including TOO much data in the visualization (e.g., is the entirety of data presented in this visualization useful to the intended message?).
 
 
-### Redesign Process and User Research Profiles
+### Steps Three and Four: Redesign Process and User Research
 To aid in my redesign process, I created three separate sketches that display the data differently than the original visualization, and differently than one another by iterating each sketch slightly. To gather feedback and test the readability of my sketches, I asked two separate users a series of questions that remained the same for all three visualizations. The users have the following demography:
 
 **User 1:** Male, 27 years old, software engineer  
@@ -28,7 +29,7 @@ To aid in my redesign process, I created three separate sketches that display th
 
 Below are the sketches and feedback.
 
-### Redesign Option 1 and User Feedback
+#### Redesign Option 1 and User Feedback
 To begin, I knew I had to do a fair amount of cleaning in terms of data presentation and overall chart junk. I immediately decided to remove the data for "None" and "Not Reported" from each type of school cateogry and cut down on the number of categories represented in this visualization. It seemed to me that the categories most homogenous with one another where those referncing the "need" of schools rather than their location. Thus, I kept "low needs," "average needs," and both "high needs" schools types in my sketch.
 
 Further, I decided that instead of focusing on all barriers to internet access, I could highlight the data that represents barriers to cost. Ostensibly, cost as a barrier to internet access is something the district can more directly impact (as opposed to internet availability). The proportion of students who experienced barriers to internet via "availability" or "other" were represented with shades of gray while the data of interest--the proportion of students for whom cost was a barrier--were represented with green.
@@ -57,8 +58,8 @@ Further, I decided that instead of focusing on all barriers to internet access, 
 
 
 
-### Redesign Option 2 and User Feedback
-description here of ideas
+#### Redesign Option 2 and User Feedback
+My second sketch has many similarities with the first sketch in terms of type of graphic, layout, and axes. However, for this redesign, I wanted to highlight the majority barrier per each type of school rather than only cost because the proportion of students in rural high-needs schools experiecing a lack of availability of internet access is a signficant piece of the story of the data. I chose to omit the "other" barrier option (due to its lack of clarity or elucidation about the root problem) and instead focus on cost and availability. The majority proportion per type of school is represented as a solid bar while the other source of inaccess is represented with dotted lines. I still wanted to show the proportion of the other type of inaccess without highlight it, per se.
 
 <img src="https://user-images.githubusercontent.com/116670343/201529524-d7b097f2-c398-4eb7-a678-c0556d14e8a8.jpg" width="700" />
 
@@ -84,7 +85,7 @@ description here of ideas
    **User 2:** I really like this one. I'm still a little confused by who is being represented by this data (students or schools) so I'd make that more clear via title or label alterations.
 
 
-### Redesign Option 3 and User Feedback
+#### Redesign Option 3 and User Feedback
 description here of ideas--wanted to try somehting other than a barchart
 
 <img src="https://user-images.githubusercontent.com/116670343/201529531-06bc6e4c-1474-49ae-9d25-f6b59cdfbd77.jpg" width="700" />
@@ -109,5 +110,7 @@ description here of ideas--wanted to try somehting other than a barchart
    **User 1:** I'd add light gray stats to the blank sections of the matrix, like barely perceptible, but enough so the reader knows there is data there. And, I'd add in some sort of consistent hierarchy for low, average, and high-needs categories by adding one big "high-needs" label and then the urban and rural labels smaller under the high-needs label.  
    **User 2:** Maybe add additional data to the empty parts of this chart and show how the reader should sum the percentages, like with an arrow pointing across the rows or an equals sign and total percentages across either row or column data.
 
-### User Research Takeaways
+#### User Research Takeaways
 What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign. 
+
+### Step Five: Building a Solution
