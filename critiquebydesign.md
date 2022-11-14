@@ -120,12 +120,11 @@ Rural and urban high needs schools should be sub-labels under a greater "high  n
 Finally, there was some feedback about the organization of the data in terms of what gets included on the chart. I will base my final chart on the layout in sketch 1, keeping low and average needs school data and maintaining the position of rural high needs schools on the axis. While I agree with User 1 in that moving the rural data to the rightmost position would further mark it as 'other,' I think the different colored majority data sandwiched in between average needs and urban high needs schools is more powerful in showing its uniqueness. 
 
 ### Step Five: Building a Solution
+Considering the likely audience of this data visualization of staff in the district, I chose to focus on cost as a barrier for students in the NY State school system. I find it more likely that staff within the district will have control over providing extra funding for students to access internet via the purchase of hotspots, for example, than changing the availbaility of internet signal in students' homes. Thus, focusing on cost as a barrier makes the most sense for the final visualization.
 
+I used the software called Flourish to create my updated visualization which has some limits as to how to display data. For example, I wanted to bold the words "rural" and "urban/subsurban" on the y-axis to differentiate the geography component among high-needs schools.
 
-
-
-
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/11817598"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
