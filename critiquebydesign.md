@@ -117,6 +117,16 @@ A few key patterns have emerged in the feedback from the two users. First, the w
 
 Rural and urban high needs schools should be sub-labels under a greater "high  needs" label to make it more clear that those two columns of data are unique than the other two (low and average needs). Further, a larger label would help the reader pay attention to what makes the two types of schools different which will hopefully make the rural/urban distinction more clear.
 
-Finally, there was some feedback about the organization of the data in terms of what gets included on the chart. I will base my final chart on the layout in sketch 2, keeping low and average needs school data and maintaining the position of rural high needs schools on the axis. While I agree with User 1 in that moving the rural data to the rightmost position would further mark it as 'other,' I think the different colored majority data sandwiched in between average needs and urban high needs schools is more powerful in showing its uniqueness. 
+Finally, there was some feedback about the organization of the data in terms of what gets included on the chart. I will base my final chart on the layout in sketch 1, keeping low and average needs school data and maintaining the position of rural high needs schools on the axis. While I agree with User 1 in that moving the rural data to the rightmost position would further mark it as 'other,' I think the different colored majority data sandwiched in between average needs and urban high needs schools is more powerful in showing its uniqueness. 
 
 ### Step Five: Building a Solution
+
+
+
+
+
+
+
+
+
+[Back to the main Portfolio page](/README.md)
