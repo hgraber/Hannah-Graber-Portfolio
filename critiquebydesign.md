@@ -86,7 +86,9 @@ My second sketch has many similarities with the first sketch in terms of type of
 
 
 #### Redesign Option 3 and User Feedback
-description here of ideas--wanted to try somehting other than a barchart
+Finally, I tried to represent said 'majority' proportions per school type in a visualization other than a bar chart. I was attempting creativity but I'm not satisfied with the product. I agree with the users who provided feedback below in that this matrix is confusing due to a *lack* of data rather than too much data like in the original visualization. For instance, should the data be read across the rows or columns? 
+
+I do like the use of color for the left-justified labels denoting low, medium, and high need schools. Also, the rural high-needs school data is clearly highlighted in without the use of additional color.
 
 <img src="https://user-images.githubusercontent.com/116670343/201529531-06bc6e4c-1474-49ae-9d25-f6b59cdfbd77.jpg" width="700" />
 
