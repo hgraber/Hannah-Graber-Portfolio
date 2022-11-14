@@ -28,8 +28,10 @@ To aid in my redesign process, I created three separate sketches that display th
 
 Below are the sketches and feedback.
 
-### Redesign Option 1
-what I tried to do with this one--focus on one element: cost. thats what schools can potentially impact
+### Redesign Option 1 and User Feedback
+To begin, I knew I had to do a fair amount of cleaning in terms of data presentation and overall chart junk. I immediately decided to remove the data for "None" and "Not Reported" from each type of school cateogry and cut down on the number of categories represented in this visualization. It seemed to me that the categories most homogenous with one another where those referncing the "need" of schools rather than their location. Thus, I kept "low needs," "average needs," and both "high needs" schools types in my sketch.
+
+Further, I decided that instead of focusing on all barriers to internet access, I could highlight the data that represents barriers to cost. Ostensibly, cost as a barrier to internet access is something the district can more directly impact (as opposed to internet availability). The proportion of students who experienced barriers to internet via "availability" or "other" were represented with shades of gray while the data of interest--the proportion of students for whom cost was a barrier--were represented with green.
 
 <img src="https://user-images.githubusercontent.com/116670343/201529517-f8cd21c4-24dd-41b0-bc64-8154f29b216c.jpg" width="700" />
 
@@ -55,7 +57,7 @@ what I tried to do with this one--focus on one element: cost. thats what schools
 
 
 
-### Redesign Option 2
+### Redesign Option 2 and User Feedback
 description here of ideas
 
 <img src="https://user-images.githubusercontent.com/116670343/201529524-d7b097f2-c398-4eb7-a678-c0556d14e8a8.jpg" width="700" />
@@ -82,7 +84,7 @@ description here of ideas
    **User 2:** I really like this one. I'm still a little confused by who is being represented by this data (students or schools) so I'd make that more clear via title or label alterations.
 
 
-### Redesign Option 3
+### Redesign Option 3 and User Feedback
 description here of ideas--wanted to try somehting other than a barchart
 
 <img src="https://user-images.githubusercontent.com/116670343/201529531-06bc6e4c-1474-49ae-9d25-f6b59cdfbd77.jpg" width="700" />
