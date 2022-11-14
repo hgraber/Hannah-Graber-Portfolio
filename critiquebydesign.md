@@ -126,6 +126,4 @@ I used the software called Flourish to create my updated visualization which has
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817598"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
 [Back to the main Portfolio page](/README.md)
