@@ -125,6 +125,7 @@ Finally, below is my updated redesign:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11817598"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 I attempted to clarify the message of the data in the title and cut down on text within the visualization to reduce confusion resulting from chart junk. I picked colors that didn't have a clear association with one another, though still effectively highlight important facets of cost and availability barriers. I did find that I was slightly limited by the functionality of Flourish. For example, I wanted to emphasize certain words within the y-axis labels (i.e., bold urban/suburban and rural and potentially change the color of high, average, and low needs text) but I was only able to edit the entire label.
 
 Overall, I believe this final redesign is both effective on its own (sans comparison within the context of this course) and addresses the shortcomings of the original visualization and subsequent sketches. 
