@@ -72,7 +72,7 @@ My second sketch has many similarities with the first sketch in terms of type of
 - Is there anything you find surprising or confusing?
 
    **User 1:** I still think there's too much text on the x-axis that makes the information hard to absorb. Like, in the last visualization, I didn't even really register than the last two categories represented urban and rural high-needs schools. I know you underlined them, but it wasn't clear to me until now.  
-   **User 2:** I find it suprising that among students in rural high needs schools, of course the majority struggle with internet availability and that is highlighted very clearly, but a huge group of students struggle with cost, too--comparable to the majority barrier for average needs schools.
+   **User 2:** I find it surprising that among students in rural high needs schools, of course the majority struggle with internet availability and that is highlighted very clearly, but a huge group of students struggle with cost, too--comparable to the majority barrier for average needs schools.
 
 - Based on the data represented here, who do you think is the intended audience?
 
@@ -113,7 +113,7 @@ I do like the use of color for the left-justified labels denoting low, medium, a
    **User 2:** Maybe add additional data to the empty parts of this chart and show how the reader should sum the percentages, like with an arrow pointing across the rows or an equals sign and total percentages across either row or column data.
 
 #### User Research Takeaways
-A few key patterns have emerged in the feedback from the two users. First, the way I've represented the data in the titles and axes are confusing and unclear as to who is struggling with access: schools themselves or students attending the schools? Similarly, the representation of low, average, and high needs schools shoul dbe more clear by removing text from teh axis or using color/bold to differentiate type. 
+A few key patterns have emerged in the feedback from the two users. First, the way I've represented the data in the titles and axes are confusing and unclear as to who is struggling with access: schools themselves or students attending the schools? Similarly, the representation of low, average, and high needs schools should be more clear by removing text from the axis or using color/bold to differentiate type. 
 
 Rural and urban high needs schools should be sub-labels under a greater "high  needs" label to make it more clear that those two columns of data are unique than the other two (low and average needs). Further, a larger label would help the reader pay attention to what makes the two types of schools different which will hopefully make the rural/urban distinction more clear. My classmates suggested that I remove words from the x-axis labels to further clarify the meaning of the graph and reduce unneccesary text.
 
