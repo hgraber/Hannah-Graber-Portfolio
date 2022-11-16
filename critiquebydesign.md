@@ -3,7 +3,7 @@ Within the scope of this course, I have learned how to effectively critique data
 
 
 ### Step One: Original Data Visualization
-Below is the original data visualization I chose to critique via redesign. The graph comes from the New York State Education Department from a slide deck outlining spring 2020 digital equity survey results. The data were submitted by New York State Schools "to the best of their ability and knowledge" in June and July of 2020. I picked this visualization because I am interested nin digital equity as a policy topic and this particular visualization didn't fully represent the brevity of internet access barriers, in my opinion. I know that it's very important for schools to understand the challenges their students face at home (including connecting to the internet to complete schoolwork) and I felt as though this visualization didn't effectively tell the data's story.
+Below is the original data visualization I chose to critique via redesign. The graph comes from the New York State Education Department from a slide deck outlining spring 2020 digital equity survey results. The data were submitted by New York State Schools "to the best of their ability and knowledge" in June and July of 2020. I picked this visualization because I am interested in digital equity as a policy topic and this particular visualization didn't fully represent the brevity of internet access barriers, in my opinion. I know that it's very important for schools to understand the challenges their students face at home (including connecting to the internet to complete schoolwork) and I felt as though this visualization didn't effectively tell the data's story.
 
 <img src="https://user-images.githubusercontent.com/116670343/201529659-23601663-d0a1-4c71-b5ee-0419f7a35d55.png" width="800" />
 
@@ -115,9 +115,18 @@ I do like the use of color for the left-justified labels denoting low, medium, a
 #### User Research Takeaways
 A few key patterns have emerged in the feedback from the two users. First, the way I've represented the data in the titles and axes are confusing and unclear as to who is struggling with access: schools themselves or students attending the schools? Similarly, the representation of low, average, and high needs schools shoul dbe more clear by removing text from teh axis or using color/bold to differentiate type. 
 
-Rural and urban high needs schools should be sub-labels under a greater "high  needs" label to make it more clear that those two columns of data are unique than the other two (low and average needs). Further, a larger label would help the reader pay attention to what makes the two types of schools different which will hopefully make the rural/urban distinction more clear.
+Rural and urban high needs schools should be sub-labels under a greater "high  needs" label to make it more clear that those two columns of data are unique than the other two (low and average needs). Further, a larger label would help the reader pay attention to what makes the two types of schools different which will hopefully make the rural/urban distinction more clear. My classmates suggested that I remove words from the x-axis labels to further clarify the meaning of the graph and reduce unneccesary text.
 
-Finally, there was some feedback about the organization of the data in terms of what gets included on the chart. I will base my final chart on the layout in sketch 1, keeping low and average needs school data and maintaining the position of rural high needs schools on the axis. While I agree with User 1 in that moving the rural data to the rightmost position would further mark it as 'other,' I think the different colored majority data sandwiched in between average needs and urban high needs schools is more powerful in showing its uniqueness. 
+Finally, there was some feedback about the organization of the data in terms of what gets included on the chart. I will base my final chart on the layout in sketch 2, keeping low and average needs school data and maintaining the position of rural high needs schools on the axis. While I agree with User 1 in that moving the rural data to the rightmost position would further mark it as 'other,' I think the different colored majority data sandwiched in between average needs and urban high needs schools is more powerful in showing its uniqueness. Additionally, my classmates suggested that instead of representing the 'minority' data with dashed lines, I can instead represent both cost and availability data with solid colored bars to reduce confusion.
 
+
+## Step Five: Building a Solution
+Finally, below is my updated redesign:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11817598"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I attempted to clarify the message of the data in the title and cut down on text within the visualization to reduce confusion resulting from chart junk. I picked colors that didn't have a clear association with one another, though still effectively highlight important facets of cost and availability barriers. I did find that I was slightly limited by the functionality of Flourish. For example, I wanted to emphasize certain words within the y-axis labels (i.e., bold urban/suburban and rural and potentially change the color of high, average, and low needs text) but I was only able to edit the entire label.
+
+Overall, I believe this final redesign is both effective on its own (sans comparison within the context of this course) and addresses the shortcomings of the original visualization and subsequent sketches. 
 
 [Back to the main Portfolio page](/README.md)
