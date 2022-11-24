@@ -36,10 +36,10 @@ Secondly, the American Community Survey through the Census Bureau publishes data
 
 Finally, Ookla has made available the crowdsourced speed data they collect from their app. I intend to use the shapefiles they’ve uploaded to their Github site to create maps of the greater Pittsburgh metropolitan area to show my audience the TRUE state of broadband access/speeds compared to the federally available speed data (which overestimates access due to Pennsylvania’s low speed definition of broadband).
 
-* [Ookla Speedtesting](/https://www.speedtest.net/)
-* [Broadband and the Wisconsin Economy](/https://economicdevelopment.extension.wisc.edu/files/2021/06/2021-01-07-Broadband-Report.pdf)
-* [Opensource Ookla Speedtest Data](/https://ookla-open-data.s3.amazonaws.com/shapefiles/performance/type=fixed/year=2022/quarter=3/2022-07-01_performance_fixed_tiles.zip)
-* [ACS 1-year 2021 Internet and Broadband Access Data (B28011)](/https://data.census.gov/table?q=B28011:+INTERNET+SUBSCRIPTIONS+IN+HOUSEHOLD)
+* [Ookla Speedtesting](https://www.speedtest.net/)
+* [Broadband and the Wisconsin Economy](https://economicdevelopment.extension.wisc.edu/files/2021/06/2021-01-07-Broadband-Report.pdf)
+* [Opensource Ookla Speedtest Data](https://ookla-open-data.s3.amazonaws.com/shapefiles/performance/type=fixed/year=2022/quarter=3/2022-07-01_performance_fixed_tiles.zip)
+* [ACS 1-year 2021 Internet and Broadband Access Data (B28011)](https://data.census.gov/table?q=B28011:+INTERNET+SUBSCRIPTIONS+IN+HOUSEHOLD)
 
 
 ### Method and Medium
