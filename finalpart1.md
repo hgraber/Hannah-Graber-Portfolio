@@ -1,4 +1,4 @@
-## Final Project, Part One
+## Final Project, Part 1
 
 ### Outlining
 Across the United States, urban, rural, and suburban communities alike lack access to high-speed internet, otherwise known as broadband. Broadband is defined as internet speed that meets the minimum requirement of 25 Megabits per second download speed and 3 Megabits per second upload speed. With many aspects of society (e.g., education, healthcare, and the workforce) moving online, access to fast and reliable internet is becoming more important for the sake of social and economic mobility.
