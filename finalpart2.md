@@ -17,7 +17,7 @@ In the user interviews, I hope to learn more about the flow of the story and the
 My target audience for this story is the general public, specifically geared towards those living in Pennsylvania and who care about communities’ equitable access to resources. The ‘call to action’ entails contacting a state representative and conducting speed test data on their devices; Neither of these actions are particular to policymakers or government officials, though the story would be relevant to them, as well. As such, I chose to find three users of different demography (age, gender, MSA status) to try and represent the ‘general public’ as much as possible.
 
 **Interview script**  
-*Introduction*
+*Introduction*  
 Hello! Thank you for agreeing to help me with my class assignment. I’m really excited to show you what I’ve been learning. After looking at the following storyboard, I’m going to ask you some questions about what you think about the story presented.
 
 *Questions*
