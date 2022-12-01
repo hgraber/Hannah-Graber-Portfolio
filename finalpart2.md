@@ -30,3 +30,9 @@ Hello! Thank you for agreeing to help me with my class assignment. I’m really 
 Thank you so much for your time—I really appreciate your input and effort to help me out. Do you have any more questions for me?
 
 **Interview findings**
+
+**Areas for change**
+
+**Moodboard**
+The following moodboard represents the colors and feel I want my story to represent:
+<img src="https://user-images.githubusercontent.com/116670343/204950933-04460f00-b8b3-4207-8c2d-5588513fa6d2.png" width="800" />
