@@ -14,7 +14,7 @@ Below are storyboards that represent a visual walk-through of the primary elemen
 In the user interviews, I hope to learn more about the flow of the story and the amount of information presented. I struggled with what information to provide when in the storyboard and moved information around as I worked on it, so I’m curious to hear others’ perspective on if they had their questions answered as data was presented, or if they were left feeling like the information didn’t flow like they hoped it would. The story of broadband access is complex—and I feel very passionately about it—so I am wondering if the information provided paints too complicated a picture of what’s going on with too much, or too disparate, data. 
 
 **Target audience**  
-My target audience for this story is the general public, specifically geared towards those living in Pennsylvania and who care about communities’ equitable access to resources. The ‘call to action’ entails contacting a state representative and conducting speed test data on their devices; Neither of these actions are particular to policymakers or government officials, though the story would be relevant to them, as well. As such, I chose to find three users of different demography (age, gender, MSA status) to try and represent the ‘general public’ as much as possible.
+My target audience for this story is the general public, specifically geared towards those living in Pennsylvania and who care about communities’ equitable access to resources. The ‘call to action’ entails contacting a state representative and conducting speed test data on their devices; Neither of these actions are particular to policymakers or government officials, though the story would be relevant to them, as well. As such, I chose to find three users of different demography (age, gender, MSA status) to try and represent the ‘general public’ as much as possible. The demography of my users is as follows: (1) male, age 52 (project manager); (2) male, age 27 (software engineer); (3) female, age 21 (sales representative) 
 
 **Interview script**  
 *Introduction*  
@@ -30,6 +30,16 @@ Hello! Thank you for agreeing to help me with my class assignment. I’m really 
 Thank you so much for your time—I really appreciate your input and effort to help me out. Do you have any more questions for me?
 
 **Interview findings**
+
+Interview question | User 1 | User 2 | User 3  
+--- | --- | --- | ---  
+Can you describe your key takeaways from the story presented in your own words? | It seems that a National standard needs to be set to define internet coverage speed.  | **nicely** | What I am taking away from this story is that I am more informed on what broadband is and how basic requirements for broadband can be different depending on the state. I also learned that there is such thing as broadband inequality, and that some states aren't getting as many resources as others.  
+Based on the data represented here, who do you think is the intended audience? | I think the intended audience would be the people under represented in internet access, as well as broadband providers | 3 | The intended audience is people who may not know that they are at a disadvantage, and to catch the attention of those who can make way for change.  
+What would you change about this story, if anything (e.g., order of information, less information, more information, different visualizations, etc.)? | No changes necessary from my point of view, unless there is data available to show the gaps in coverage as an overlay | 3 | I think it would be cool if you had a link at the end that would allow you could see how states compare to others when it comes to broadband requirements and federal funding. Also #3 is missing on the story.  
+What questions do you still have about this story, if any? | Why doesn’t the federal agency that disperses funds for this purpose demand equal accounting among states?  | 3 | I have no questions. It was very reader friendly, and the diagrams really helped me visualize the information.  
+
+
+
 
 **Areas for change**
 
