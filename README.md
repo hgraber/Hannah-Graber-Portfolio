@@ -22,4 +22,6 @@ Once I graduate, I hope to work in policy research at a think tank or non-profit
 ## [Final Project, Part 1](/finalpart1.md)
 
 ## [Final Project, Part 2](/finalpart2.md)
+
+## Final Project, Part 3
  
