@@ -46,5 +46,6 @@ Finally, Ookla has made available the crowdsourced speed data they collect from 
 I plan on displaying my final project in Shorthand, a web-based visual media platform that will help me easily present my data visualizations. For the actual visualizations, I plan to use Tableau and/or Flourish along with ArcGIS Pro and then import the iframe codes into Shorthand for presentation. 
 
 
-
+[Go to Part 2](/finalpart2.md)  
+[Go to Part 3](/finalpart3.md)  
 [Back to the main Portfolio page](/README.md)
