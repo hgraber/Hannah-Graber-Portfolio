@@ -43,7 +43,7 @@ In my next sketches and initial renderings of my visualizations in Flourish, you
 
 <img src="https://user-images.githubusercontent.com/116670343/206078835-7b181938-b369-4134-b134-2a52fa3ba514.jpg" width="600" />
 
-And here is the fleshed out storyboard I created from the outline:
+And here is the fleshed out storyboard I created from the outline. It's clear I'm trying out some sort of color scheme (maybe?!) but it doesn't quite feel aesthetically cohesive:
 
 <img src="https://user-images.githubusercontent.com/116670343/204939412-7044525b-04d1-455c-b4d5-79f608c685cf.jpg" width="600" />
 <img src="https://user-images.githubusercontent.com/116670343/204939486-cdbf9577-3244-4232-b71a-db8d35da8bc0.jpg" width="600" />
@@ -51,6 +51,18 @@ And here is the fleshed out storyboard I created from the outline:
 <img src="https://user-images.githubusercontent.com/116670343/204939494-cc0b7fc7-2141-44ed-808b-24b4d5eefe20.jpg" width="600" />
 <img src="https://user-images.githubusercontent.com/116670343/204939498-1ccf37f4-0e8d-47ef-81f5-997227907607.jpg" width="600" />
 
-From the storyboard, I asked three users to tell me their thoughts on their main takeaways, the intended audience, what they'd change, and any questions still remaining. I received some very helpful feedback that I considered as I moved forward in the project process. Across all interviews, the users' perspective of my intended audience differed. From these observations, I decided that my audience is still 'general layperson' in tone and jargon, but the specific examples I use can be tailored to the group I'm speaking to. In this instance, I'm speaking to people who are sitting in Hamburg Hall, but not necessarily *policy students* sitting in Hamburg Hall. Additionally, it was clear I needed to make the pixels graphs more consistent and easy to understand and I finally figured out how to implement my idea in Tableau with minor complications. Finally, I did consider adding an additional visualization exploring other states whose definition of broadband is different than the national 25/3 Mbps definition to appease questions about PA's strange standard, but the data was very incomplete and contradictory so I decided against it.
+From the storyboard, I asked three users to tell me their thoughts on their main takeaways, the intended audience, what they'd change, and any questions still remaining. I received some very helpful feedback that I considered as I moved forward in the project process. It was clear I needed to make the pixels graphs more consistent and easy to understand and I finally figured out how to implement my idea in Tableau with minor complications. Finally, I did consider adding an additional visualization exploring other states whose definition of broadband is different than the national 25/3 Mbps definition to appease questions about PA's strange standard, but the data was very incomplete and contradictory so I decided against it.
 
+In this stage, I also developed a mood board with some images from Unsplash I could use and complementary colors:
+<img src="https://user-images.githubusercontent.com/116670343/206080906-64356cc2-ef7a-4f5d-986b-003d3ac9eef7.png" width="600" />
 
+#### The end
+In addition to small changes I made as a result of my user interviews and better developing the pixel graphs (described above), I streamlined my narrative to focus on increasing PA speed definitions first, and improving broadband data as a secondary ask. I briefly touch on howbad data reporting can lead to detrimental effects on providing access to communities that need it most, but that is no longer the thesis of the story. As a result, the audience shifted from policy-makers or advocacy groups to a more general audience of people who live in a state that doesn't regulate adequate broadband standards for all people.
+
+Across all user interviews, the perspective of my intended audience differed. From these observations, I decided that my audience is 'general layperson' in tone and jargon, but the specific examples I use can be tailored to the group I'm speaking to. In this instance, I'm speaking to people who are sitting in Hamburg Hall, but not necessarily *policy students* sitting in Hamburg Hall. In other words, I keep the jargon and policy-speak light even though I'm presenting to people who **do** care about marginalized communtiies and understand the nuances of data reporting implications.
+
+Finally, I used my mood board and designated images to create a presentation that was easy to view, hand-picking accent colors and text size. My main color (used for most of the visualizations) was a medium-blue with orange and teal accents pulled from one main image of a computer screen that I particularly like. I played with light and dark themes per Shorthand 'slide' to balance out the white of the visualization backgrounds with the images from Unsplash to create a cohesive flow.
+
+So...here it is! Without further ado, please click here to view my final project, Broadband for all? A Call for Amended Broadband Standards in Pennsylvania.
+
+### References
