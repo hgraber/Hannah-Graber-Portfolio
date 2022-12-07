@@ -47,4 +47,4 @@ The following moodboard represents the colors and feel I want my story to repres
 
 [Go to Part 1](/finalpart1.md)  
 [Go to Part 3](/finalpart3.md)  
-[No thanks, back to the main Portfolio page please](/README.md)
+[No thanks, back to the main Portfolio page please!](/README.md)
