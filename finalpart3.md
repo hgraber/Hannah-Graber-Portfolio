@@ -63,7 +63,8 @@ Across all user interviews, the perspective of my intended audience differed. Fr
 
 Finally, I used my mood board and designated images to create a presentation that was easy to view, hand-picking accent colors and text size. My main color (used for most of the visualizations) was a medium-blue with orange and teal accents pulled from one main image of a computer screen that I particularly like. I played with light and dark themes per Shorthand 'slide' to balance out the white of the visualization backgrounds with the images from Unsplash to create a cohesive flow.
 
-So...here it is! Without further ado, please click here to view my final project, *Broadband for all? A Call for Amended Broadband Standards in Pennsylvania.*
+So...here it is! Without further ado, please click [here](/broadbandfinal.md) to view my final project, *Broadband for all? A Call for Amended Broadband Standards in Pennsylvania.*
+
 
 
 [Go to Part 1](/finalpart1.md)  
