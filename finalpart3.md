@@ -57,7 +57,7 @@ In this stage, I also developed a mood board with some images from Unsplash I co
 <img src="https://user-images.githubusercontent.com/116670343/206080906-64356cc2-ef7a-4f5d-986b-003d3ac9eef7.png" width="600" />
 
 #### The end
-In addition to small changes I made as a result of my user interviews and better developing the pixel graphs (described above), I streamlined my narrative to focus on increasing PA speed definitions first, and improving broadband data as a secondary ask. I briefly touch on howbad data reporting can lead to detrimental effects on providing access to communities that need it most, but that is no longer the thesis of the story. As a result, the audience shifted from policy-makers or advocacy groups to a more general audience of people who live in a state that doesn't regulate adequate broadband standards for all people.
+In addition to small changes I made as a result of my user interviews and better developing the pixel graphs (described above), I streamlined my narrative to focus on increasing PA speed definitions first, and improving broadband data as a secondary ask (at first). The day before the presentation, I decided a better call to action would be to call for a national standard of broadband rather than improving PA's speeds as it seemed to tie in both 'parts' of my message better (bad data AND slow speed definitions). I plan to briefly touch on how bad data reporting can lead to detrimental effects on providing access to communities that need it most, but that is no longer the thesis of the story. As a result, the audience shifted from policy-makers or advocacy groups to a more general audience of people who live in a state that doesn't regulate adequate broadband standards for all people.
 
 Across all user interviews, the perspective of my intended audience differed. From these observations, I decided that my audience is 'general layperson' in tone and jargon, but the specific examples I use can be tailored to the group I'm speaking to. In this instance, I'm speaking to people who are sitting in Hamburg Hall, but not necessarily *policy students* sitting in Hamburg Hall. In other words, I keep the jargon and policy-speak light even though I'm presenting to people who **do** care about marginalized communtiies and understand the nuances of data reporting implications.
 
@@ -65,10 +65,7 @@ Finally, I used my mood board and designated images to create a presentation tha
 
 So...here it is! Without further ado, please click here to view my final project, *Broadband for all? A Call for Amended Broadband Standards in Pennsylvania.*
 
-### References
 
-
-
-
-
+[Go to Part 1](/finalpart1.md)  
+[Go to Part 2](/finalpart2.md)  
 [Back to the main Portfolio page](/README.md)
