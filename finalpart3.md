@@ -1,7 +1,7 @@
-## Final Project, Part 3 (woohoo!)
+## Final Project, Stage 3 (woohoo!)
 
 ### My process thus far 
-#### The beginning ([Part 1](/finalpart1.md))
+#### The beginning ([Stage 1](/finalpart1.md))
 From the start of idea conception for this project, I knew I wanted to focus on broadband, but the scope became more narrow in some aspects and broader in others. 
 
 First, I wanted the focus of my project to be a call for better *data* as it relates to broadband speed and access. I created a one sentence summary of what I wanted to convey in the project, what I wanted my audience to takeaway, and what I wanted my audience to do:
@@ -37,7 +37,7 @@ If I'm being honest, I felt quite unsure about where my data was going to come f
 
 
 
-#### The middle ([Part 2](/finalpart2.md))
+#### The middle ([Stage 2](/finalpart2.md))
 
 In my next sketches and initial renderings of my visualizations in Flourish, you can see the changes in scope as I attempt to make my message more streamlined. I still mention better data collection--but only briefly--and moved from Allegheny County to all of PA. Here is my initial outlining of the journey I imagined:
 
@@ -67,6 +67,6 @@ So...here it is! Without further ado, please click [here](/broadbandfinal.md) to
 
 
 
-[Go to Part 1](/finalpart1.md)  
-[Go to Part 2](/finalpart2.md)  
+[Go to Stage 1](/finalpart1.md)  
+[Go to Stage 2](/finalpart2.md)  
 [Back to the main Portfolio page](/README.md)
