@@ -1,4 +1,4 @@
-## Final Project, Part 1
+## Final Project, Stage 1
 
 ### Outlining
 Across the United States, urban, rural, and suburban communities alike lack access to high-speed internet, otherwise known as broadband. Broadband is defined as internet speed that meets the minimum requirement of 25 Megabits per second download speed and 3 Megabits per second upload speed. With many aspects of society (e.g., education, healthcare, and the workforce) moving online, access to fast and reliable internet is becoming more important for the sake of social and economic mobility.
@@ -46,6 +46,6 @@ Finally, Ookla has made available the crowdsourced speed data they collect from 
 I plan on displaying my final project in Shorthand, a web-based visual media platform that will help me easily present my data visualizations. For the actual visualizations, I plan to use Tableau and/or Flourish along with ArcGIS Pro and then import the iframe codes into Shorthand for presentation. 
 
 
-[Go to Part 2](/finalpart2.md)  
-[Go to Part 3](/finalpart3.md)  
+[Go to Stage 2](/finalpart2.md)  
+[Go to Stage 3](/finalpart3.md)  
 [Back to the main Portfolio page](/README.md)
